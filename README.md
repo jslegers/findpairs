@@ -10,5 +10,3 @@ As the code is ancient and outdated, I'm releasing it into the public domain.
 ##Demo
 
 For a live demo, go to [http://jslegers.github.com/findpairs/](http://jslegers.github.com/findpairs/).
-
-This implementation is MIT licensed.
